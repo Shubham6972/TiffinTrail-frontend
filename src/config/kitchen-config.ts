@@ -1,0 +1,17 @@
+export const CuisineList =[
+    'North Indian',
+    'South Indian',
+    'Punjabi',
+    'Gujarati',
+    'Bengali',
+    'Maharashtrian',
+    'Rajasthani',
+    'Kashmiri',
+    'Hyderabadi',
+    'Goan',
+    'Kerala',
+    'Sindhi',
+    'Mughlai',
+    'Parsi',
+    'Konkani',
+]
